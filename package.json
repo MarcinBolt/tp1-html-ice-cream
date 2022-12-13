@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://MarcinBolt.github.io/tp1-html-ice-cream",
+  "homepage": "https://marcinbolt.github.io/tp1-html-ice-cream",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /tp1-html-ice-cream/"
